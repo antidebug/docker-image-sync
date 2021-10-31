@@ -8,3 +8,6 @@ images:
   k8s.gcr.io/sig-storage/csi-node-driver-registrar: antidebug/csi-node-driver-registrar
   k8s.gcr.io/sig-storage/csi-resizer: antidebug/csi-resizer
   k8s.gcr.io/sig-storage/csi-snapshotter: antidebug/csi-snapshotter
+  k8s.gcr.io/kube-state-metrics/kube-state-metrics: antidebug/kube-state-metrics
+  k8s.gcr.io/prometheus-adapter/prometheus-adapter: antidebug/prometheus-adapter
+  quay.io/prometheus/prometheus: antidebug/prometheus

@@ -1,0 +1,10 @@
+auth:
+  registry.hub.docker.com:
+    username: USERNAME
+    password: PASSWORD
+images:
+  k8s.gcr.io/sig-storage/csi-attacher: antidebug/csi-attacher
+  k8s.gcr.io/sig-storage/csi-provisioner: antidebug/csi-provisioner
+  k8s.gcr.io/sig-storage/csi-node-driver-registrar: antidebug/csi-node-driver-registrar
+  k8s.gcr.io/sig-storage/csi-resizer: antidebug/csi-resizer
+  k8s.gcr.io/sig-storage/csi-snapshotter: antidebug/csi-snapshotter

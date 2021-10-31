@@ -1,5 +1,5 @@
 auth:
-  registry.hub.docker.com:
+  registry.cn-guangzhou.aliyuncs.com:
     username: USERNAME
     password: PASSWORD
 images:
